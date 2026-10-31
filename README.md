@@ -2,7 +2,7 @@
 
 > 基于千问AI平台语音识别模型（`qwen3-asr-flash-filetrans`）的桌面小程序：录音或选择 WAV 文件 → 上传云端转写 → 在 GUI 中显示识别结果。界面使用 Python 标准库 tkinter。
 
-**简体中文** · [ English](#english)
+**中文** · [ English](#english)
 
 ---
 
